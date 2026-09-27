@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Written permission is required before reuse; approved use must cite this software."
+title: "NuSTAR Public Archive Downloader"
+type: software
+authors:
+  - family-names: "Varun"
+    given-names: "M."
+    affiliation: "CHRIST (Deemed to be University), Bengaluru, India"
+repository-code: "https://github.com/varunastronomy/nustar-public-archive-downloader"
+abstract: "Query public NuSTAR observations and download archive products concurrently from the HEASARC AWS open-data bucket."
+version: 1.0.0
+date-released: 2026-09-27
